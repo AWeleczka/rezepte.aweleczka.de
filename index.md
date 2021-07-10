@@ -3,3 +3,4 @@
 + [Cacio e Pepe](/cacio_e_pepe)
 + [Penne all arabiata](/penne_all_arabiata)
 + [Philly Cheesesteak](/philly_cheesesteak)
++ [Marokkanische Tajine mit Süßkartoffeln, Couscous und Petersiliensalat](/tajine_mit_suesskartoffeln_couscous_und_pertersiliensalat)
