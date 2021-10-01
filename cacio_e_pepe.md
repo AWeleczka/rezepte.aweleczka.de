@@ -2,19 +2,19 @@
 
 ## Zutaten
 
-+ Salz
-+ 200 g Nudeln (Bandnudeln oder Spaghetti)
-+ 3 TL Butter, ungesalzen
-+ 1 EL frisch gemahlener schwarzer Pfeffer
-+ 3/4 Tasse geriebener Parmesan oder Grana Pardano
-+ 1/3 Tasse geriebener Pecorino
+- 400g Tonnarelli (ersatzweise Spaghetti)
+- 180g Parmesan
+- 70g Pecorino
+- schwarzer Pfeffer
+- Salz
 
 ## Anleitung
 
-1. Nudeln nach Anleitung in gesalzenem Wasser Kochen. 2 Minuten vor fertig abgießen und eine Tasse Kochwasser zurückhalten.
-2. Währenddessen 2 EL Butter in einer Pfanne schmelzen und den Pfeffer darin anrösten (ca. 1 Minute)
-3. 1/2 Tasse Nnudelwasser in die Pfanne geben und zum Köcheln bringen.
-4. Nudeln und restliche Butter dazugeben - Hitze reduzieren.
-5. Parmesan oder Grana Pardano zugeben und vermengen.
-6. Pfanne von der Hitze nehmen, Pecorino zugeben und vermengen bis der Käse geschmlzen ist und die Nudeln überzieht. (Nudelwasser zugeben, wenn nötig)
-7. Nudeln in vorgewärmten Tellern servieren.
+1. Den Käse reiben. Währenddessen in einem Topf Salzwasser zum Kochen bringen.
+   Hierbei sollte der Topf maximal zu 3/4 voll sein.
+2. Pasta in das sprudelnde Salzwasser geben und kurz vor al dente kochen.
+   Währenddessen eine Pfanne leicht vorwärmen.
+3. Die Pasta in die Pfanne geben, anschließend den Käse und etwas Nudelwasser
+   nach und nach hinzugeben und gut vermengen, bis eine cremige Soße entsteht.
+   Mit etwas schwarzem Pfeffer würzen und nochmals gut verrühren.
+4. Die Pasta auf Tellern anrichten und nochmals schwarzen Pfeffer darüber geben.
