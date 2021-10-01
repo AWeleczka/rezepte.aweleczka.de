@@ -11,7 +11,7 @@ jobs:
       - run: |
           curl https://raw.githubusercontent.com/yiranzai/github-markdown-toc/just_pr/gh-md-toc -o gh-md-toc
           chmod a+x gh-md-toc
-          ./gh-md-toc --all --insert --no-backup index.md
+          ./gh-md-toc --all --insert --no-backup "./index.md"
           rm gh-md-toc
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
