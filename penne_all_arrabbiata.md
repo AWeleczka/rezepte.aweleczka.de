@@ -1,4 +1,4 @@
-# Penne all`arabiata
+# Penne all'arrabbiata
 
 ## Zutaten
 
