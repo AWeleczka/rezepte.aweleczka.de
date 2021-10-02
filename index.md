@@ -1,4 +1,8 @@
 
+   * [Sausage &amp; Mushroom Pasta](sauasage_mushroom_pasta.md#sausage--mushroom-pasta)
+      * [Zutaten](sauasage_mushroom_pasta.md#zutaten)
+      * [Zugereitung](sauasage_mushroom_pasta.md#zugereitung)
+
    * [Beamtenstippe / Gehacktesstippe](beamtenstippe.md#beamtenstippe--gehacktesstippe)
       * [Zutaten](beamtenstippe.md#zutaten)
       * [Anleitung](beamtenstippe.md#anleitung)
