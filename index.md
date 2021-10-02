@@ -1,7 +1,11 @@
 
+   * [Penne all'arrabbiata](penne_all_arrabbiata.md#penne-allarrabbiata)
+      * [Zutaten](penne_all_arrabbiata.md#zutaten)
+      * [Anleitung](penne_all_arrabbiata.md#anleitung)
+
    * [Sausage &amp; Mushroom Pasta](sauasage_mushroom_pasta.md#sausage--mushroom-pasta)
       * [Zutaten](sauasage_mushroom_pasta.md#zutaten)
-      * [Zugereitung](sauasage_mushroom_pasta.md#zugereitung)
+      * [Zubereitung](sauasage_mushroom_pasta.md#zubereitung)
 
    * [Beamtenstippe / Gehacktesstippe](beamtenstippe.md#beamtenstippe--gehacktesstippe)
       * [Zutaten](beamtenstippe.md#zutaten)
@@ -11,11 +15,6 @@
    * [Cacio e Pepe](cacio_e_pepe.md#cacio-e-pepe)
       * [Zutaten](cacio_e_pepe.md#zutaten)
       * [Anleitung](cacio_e_pepe.md#anleitung)
-
-   * [Penne all`arabiata](penne_all_arabiata.md#penne-allarabiata)
-      * [Zutaten](penne_all_arabiata.md#zutaten)
-      * [Anleitung](penne_all_arabiata.md#anleitung)
-      * [Quelle](penne_all_arabiata.md#quelle)
 
    * [Pasta alla Puttanesca](pasta_alla_puttanesca.md#pasta-alla-puttanesca)
       * [Zutaten](pasta_alla_puttanesca.md#zutaten)
@@ -36,6 +35,13 @@
       * [Zutaten](bauernfruehstueck.md#zutaten)
       * [Anleitung](bauernfruehstueck.md#anleitung)
       * [Quelle](bauernfruehstueck.md#quelle)
+
+   * [Jägerhähnchen mit Champignons](jaegerhaehnchen_mit_champignons.md#jägerhähnchen-mit-champignons)
+      * [Zutaten für 4 Personen](jaegerhaehnchen_mit_champignons.md#zutaten-für-4-personen)
+         * [Jägerhähnchen](jaegerhaehnchen_mit_champignons.md#jägerhähnchen)
+         * [Beilage (Kartoffelbrei)](jaegerhaehnchen_mit_champignons.md#beilage-kartoffelbrei)
+      * [Anleitung](jaegerhaehnchen_mit_champignons.md#anleitung)
+      * [Quelle](jaegerhaehnchen_mit_champignons.md#quelle)
 
    * [Marokkanische Tajine mit Süßkartoffeln, Couscous und Petersiliensalat](tajine_mit_suesskartoffeln_couscous_und_pertersiliensalat.md#marokkanische-tajine-mit-süßkartoffeln-couscous-und-petersiliensalat)
       * [Zutaten](tajine_mit_suesskartoffeln_couscous_und_pertersiliensalat.md#zutaten)
