@@ -13,6 +13,10 @@
       * [Anleitung](penne_all_arabiata.md#anleitung)
       * [Quelle](penne_all_arabiata.md#quelle)
 
+   * [Pasta alla Puttanesca](pasta_alla_puttanesca.md#pasta-alla-puttanesca)
+      * [Zutaten](pasta_alla_puttanesca.md#zutaten)
+      * [Zubereitung](pasta_alla_puttanesca.md#zubereitung)
+
    * [Philly Cheesesteak](philly_cheesesteak.md#philly-cheesesteak)
       * [Zutaten](philly_cheesesteak.md#zutaten)
       * [Anleitung](philly_cheesesteak.md#anleitung)
