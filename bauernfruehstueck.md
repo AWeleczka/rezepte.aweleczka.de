@@ -12,10 +12,15 @@
 ## Anleitung
 
 1. Kartoffeln in Scheiben schneiden
+
 2. Kartoffelscheiben in der ausgelassenen Margarine anbraten
-3. Schinkenspeck und Zwiebeln in Würfel schneiden, dazu geben, alles kross braten und mit Salz und Pfeffer würzen
-4. Eier aufschlagen, über die Bratkartoffeln geben, stocken lassen, wenden und das fertige Bauernfrühstück zusammengeklappt servieren
+
+3. Schinkenspeck und Zwiebeln in Würfel schneiden, dazu geben, alles kross
+   braten und mit Salz und Pfeffer würzen
+
+4. Eier aufschlagen, über die Bratkartoffeln geben, stocken lassen, wenden und
+   das fertige Bauernfrühstück zusammengeklappt servieren
 
 ## Quelle
 
-https://www.erichserbe.de/017
+[Erichs Erbe](https://www.erichserbe.de/017)

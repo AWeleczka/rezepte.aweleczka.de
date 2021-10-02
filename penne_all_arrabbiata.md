@@ -14,15 +14,19 @@
 
 ## Anleitung
 
-1. Penne nach Packungsanweisung Al Dente kochen
+1. Penne nach Packungsanweisung al dente kochen
+
 2. Zwiebeln würfeln, Chilischoten in Ringe schneiden, Oliven in Ringe schneiden
-3. Olivenöl in einem Topf zum Anrösten erwärmen. Kloblaub, Zwiebeln und Chilischoten rösten.
+
+3. Olivenöl in einem Topf zum Anrösten erwärmen. Knoblauch, Zwiebeln und
+   Chilischoten rösten.
+
 4. Mit Tomaten ablöschen und Oliven unterheben.
+
 5. Mit Salz, Pfeffer und Paprikapulver abschmecken.
+
 6. Mindestens 10 Minuten bei niedriger Hitze köcheln lassen.
+
 7. Penne und Petersilie mit der Soße im Topf vermengen.
+
 8. Servieren und mit Parmesan bestreuen.
-
-## Quelle
-
-Chefkoch.de

@@ -15,12 +15,17 @@
 ## Anleitung
 
 1. Zwiebelwürfel in Butter bzw. Margarine anbräunen
+
 2. Hackfleisch zugeben, verrühren und garen bis es krümelig wird
+
 3. Masse mit Mehl bestäuben
+
 4. das mit Wasser verrührte Brühpulver zugeben
+
 5. rühren bis ein Fleischbrei entsteht
+
 6. mit Paprika, Salz und Pfeffer abschmecken
 
 ## Quelle
 
-https://www.erichserbe.de/076
+[Erichs Erbe](https://www.erichserbe.de/076)
