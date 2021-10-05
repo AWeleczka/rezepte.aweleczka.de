@@ -17,6 +17,6 @@
 + Mit Tomaten ablöschen und Oliven unterheben.
 + Mit Salz & Pfeffer abschmecken.
 + Mindestens 15 Minuten zugedeckt kochen lassen.
-+ Penne nach Packungsanweisung al dente kochen.
++ Penne nach Packungsanweisung al dente kochen, währenddessen die Sauce bei niedriger Hitze ohne Deckel reduzieren lassen.
 + Penne und Petersilie mit der Soße im Topf vermengen.
 + Servieren und mit Parmesan bestreuen.
