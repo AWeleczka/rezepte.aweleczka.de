@@ -1,32 +1,22 @@
 # Penne all'arrabbiata
-
 ## Zutaten
-
 + 400g Penne Nudeln
 + 3 Knoblauchzehen, gepresst
 + 2 Zwiebeln, gewürfelt
-+ 2 Chilischoten, rot
-+ 10 Oliven, schwarz, entsteint
-+ 800g Tomaten, geschält (Dose)
-+ Petersilie
-+ Parmesan
-+ Pfeffer, Salz, Paprikapulver, Olivenöl
++ 2 Chilischoten, rot / alt: 1 TL Chiliflocken
++ 2 EL Tomatenmark
++ 20-25 Oliven, schwarz, entsteint
++ 800g Dosentomaten, Stückig
++ Petersilie (Optional)
++ Parmesan, frisch gerieben
++ Pfeffer, Salz, Olivenöl
 
 ## Anleitung
-
-1. Penne nach Packungsanweisung al dente kochen
-
-2. Zwiebeln würfeln, Chilischoten in Ringe schneiden, Oliven in Ringe schneiden
-
-3. Olivenöl in einem Topf zum Anrösten erwärmen. Knoblauch, Zwiebeln und
-   Chilischoten rösten.
-
-4. Mit Tomaten ablöschen und Oliven unterheben.
-
-5. Mit Salz, Pfeffer und Paprikapulver abschmecken.
-
-6. Mindestens 10 Minuten bei niedriger Hitze köcheln lassen.
-
-7. Penne und Petersilie mit der Soße im Topf vermengen.
-
-8. Servieren und mit Parmesan bestreuen.
++ Zwiebeln würfeln, Chilischoten in Ringe schneiden, Oliven in Ringe schneiden
++ Olivenöl in einem Topf zum Anrösten erwärmen. Knoblauch, Zwiebeln und Chilischoten rösten.
++ Mit Tomaten ablöschen und Oliven unterheben.
++ Mit Salz & Pfeffer abschmecken.
++ Mindestens 15 Minuten zugedeckt kochen lassen.
++ Penne nach Packungsanweisung al dente kochen.
++ Penne und Petersilie mit der Soße im Topf vermengen.
++ Servieren und mit Parmesan bestreuen.
