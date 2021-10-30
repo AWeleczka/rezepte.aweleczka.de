@@ -1,5 +1,11 @@
 # Tiramisu
 
+## Zubereitungszeit
+
+Arbeitszeit: ~25min.  
+Ruhezeit: ~4h  
+Gesamt: ~4h 25min.
+
 ## Zutaten (für 6 Portionen)
 
 - 3 Eier
