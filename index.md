@@ -21,6 +21,11 @@
       * [Anleitung](philly_cheesesteak.md#anleitung)
       * [Quelle](philly_cheesesteak.md#quelle)
 
+   * [Tiramisu](tiramisu.md#tiramisu)
+      * [Zutaten (für 6 Portionen)](tiramisu.md#zutaten-für-6-portionen)
+      * [Anleitung](tiramisu.md#anleitung)
+      * [Quelle](tiramisu.md#quelle)
+
    * [Penne all'arrabbiata](penne_all_arrabbiata.md#penne-allarrabbiata)
       * [Zutaten](penne_all_arrabbiata.md#zutaten)
       * [Anleitung](penne_all_arrabbiata.md#anleitung)
