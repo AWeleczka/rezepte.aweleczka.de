@@ -22,6 +22,7 @@
       * [Quelle](philly_cheesesteak.md#quelle)
 
    * [Tiramisu](tiramisu.md#tiramisu)
+      * [Zubereitungszeit](tiramisu.md#zubereitungszeit)
       * [Zutaten (für 6 Portionen)](tiramisu.md#zutaten-für-6-portionen)
       * [Anleitung](tiramisu.md#anleitung)
       * [Quelle](tiramisu.md#quelle)
