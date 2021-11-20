@@ -2,7 +2,7 @@
 
 ## Zutaten
 
-### Für das Hähnchen (Für 4 Portionen - 4-8h)
+### Für das Hähnchen (Für 4 Portionen)
 
 + Joghurt : 3 Esslöffel
 + Limettenschale : 0,5 Limetten
