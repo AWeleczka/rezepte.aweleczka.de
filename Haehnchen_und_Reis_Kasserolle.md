@@ -65,7 +65,7 @@
 
 ### Reis und Hähnchen (1 Stunde)
 
-**Ofen auf 230°C vorheizen**
+**Ofen auf 200°C Umluft vorheizen**
 
 1. Eine Ofenform mit Olivenöl einfetten.
 
