@@ -1,4 +1,4 @@
-# Pfannkuchen Grundteig
+# Grundteig : Pfannkuchen
 
 ## Zutaten
 
