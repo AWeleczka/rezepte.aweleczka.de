@@ -12,13 +12,23 @@
 
 ## Zubereitung
 
-1. Backofen auf 150 °C Umluft vorheizen und zwei Backbleche mit Backpapier auslegen.
+1. Backofen auf 150 °C Umluft vorheizen und zwei Backbleche mit Backpapier
+   auslegen.
+
 2. Butter, Zucker, Salz und Vanillezucker mit dem Handmixer cremig rühren.
+
 3. Ei unterrühren.
+
 4. Mehl und Backpulver vermengen, einsieben und unterrühren.
+
 5. **Cookies so anpassen wie man will**
-6. Walnussgroße Teighaufen auf die Belche Verteilen (9 pro Blech - Abstand beachten, min. 4 cm, Cookies laufen auseinander im Ofen!)
-7. Bleche nacheinander auf mittlerer Schiene für 10 Minuten backen, bis Ränder goldbraun und Mitte etwas weich.
+
+6. Walnussgroße Teighaufen auf die Belche Verteilen (9 pro Blech - Abstand
+   beachten, min. 4 cm, Cookies laufen auseinander im Ofen!)
+
+7. Bleche nacheinander auf mittlerer Schiene für 10 Minuten backen, bis Ränder
+   goldbraun und Mitte etwas weich.
+
 8. Cookies mit Backpapier vom Blech nehmen und auf einem Rost abkühlen lassen.
 
 ## Quelle
