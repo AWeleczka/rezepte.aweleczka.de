@@ -25,3 +25,7 @@
 + Nudeln/Pancetta/Knoblauch/Butter Mischung vom Herd nehmen und die Käse/Eier Mischung hinzugeben.
 + Mit einer Zange gut vermischen, bis alle Nudeln mit Soße überzogen sind.
 + Nach Bedarf Nudelwasser zugeben um die gewünschte Konsistenz zu erreichen.
+
+## Quelle
+
+https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe
