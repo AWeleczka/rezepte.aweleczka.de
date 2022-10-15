@@ -2,12 +2,14 @@
 
 ## Zutaten
 
-+ 3 große frische Kartoffeln oder gekochte Kartoffelreste
-+ 1/2 Zwiebel
-+ 30 g Schinkenspeck
-+ 10 g Margarine
-+ Salz und Pfeffer
-+ 3 Eier
+| 1/1  | Zutat                                                 |
+|-----:|-------------------------------------------------------|
+| 3    | große frische Kartoffeln oder gekochte Kartoffelreste |
+| 1/2  | Zwiebel                                               |
+| 30 g | Schinkenspeck                                         |
+| 10 g | Margarine                                             |
+|      | Salz und Pfeffer                                      |
+| 3    | Eier                                                  |
 
 ## Anleitung
 

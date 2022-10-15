@@ -2,11 +2,13 @@
 
 ## Zutaten
 
-- 400g Tonnarelli (ersatzweise Spaghetti)
-- 180g Parmesan
-- 70g Pecorino
-- schwarzer Pfeffer
-- Salz
+| 1/1  | Zutat                              |
+|-----:|------------------------------------|
+| 400g | Tonnarelli (ersatzweise Spaghetti) |
+| 180g | Parmesan                           |
+| 70g  | Pecorino                           |
+|      | schwarzer Pfeffer                  |
+|      | Salz                               |
 
 ## Anleitung
 

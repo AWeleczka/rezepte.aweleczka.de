@@ -2,19 +2,25 @@
 
 ## Zutaten
 
-+ Essig : 250g
-+ Wasser: 250g
-+ Zucker : 150g
-+ Salz : 30g
-+ Brühe, Gekörntes Pulver : 20g
-+ Schmand : 200g
-+ Joghurt natur : 300g
-+ Senf mittelscharf : 60g
-+ Öl : 250g
+| 1/1  | Zutat                   |
+|-----:|-------------------------|
+| 250g | Essig                   |
+| 250g | Wasser                  |
+| 150g | Zucker                  |
+| 30g  | Salz                    |
+| 20g  | Brühe, Gekörntes Pulver |
+| 200g | Schmand                 |
+| 300g | Joghurt natur           |
+| 60g  | Senf mittelscharf       |
+| 250g | Öl                      |
 
 ## Beschreibung
 
-+ Essig, Wasser, Zucker, Salz und Brühe unter gelegentlichem Rühren für 6 Minuten leicht köcheln lassen.
-+ Schmand, Joghurt, Senf, Öl gut unterrühren.
-+ Mit Salz, Pfeffer und Kräutern nach Belieben abschmecken.
-+ In Gläser abfüllen.
+1. Essig, Wasser, Zucker, Salz und Brühe unter gelegentlichem Rühren für
+   6 Minuten leicht köcheln lassen.
+
+2. Schmand, Joghurt, Senf, Öl gut unterrühren.
+
+3. Mit Salz, Pfeffer und Kräutern nach Belieben abschmecken.
+
+4. In Gläser abfüllen.

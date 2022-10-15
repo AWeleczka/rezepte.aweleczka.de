@@ -2,15 +2,17 @@
 
 ## Zutaten
 
-+ 500 g Hackfleisch
-+ 50 g Margarine oder Butter
-+ 100 g Zwiebelwürfel
-+ 1 Essl. Mehl
-+ 1/4 l Wasser
-+ 1 Essl. Brühpulver
-+ 1/2 Teel. Paprikapulver
-+ Salz und Pfeffer
-+ Saure Gurken / Cornichons
+| 1/1       | Zutat                     |
+|----------:|---------------------------|
+| 500 g     | Hackfleisch               |
+| 50 g      | Margarine oder Butter     |
+| 100 g     | Zwiebelwürfel             |
+| 1 Essl.   | Mehl                      |
+| 1/4 l     | Wasser                    |
+| 1 Essl.   | Brühpulver                |
+| 1/2 Teel. | Paprikapulver             |
+|           | Salz und Pfeffer          |
+|           | Saure Gurken / Cornichons |
 
 ## Anleitung
 

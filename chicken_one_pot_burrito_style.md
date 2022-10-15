@@ -2,22 +2,24 @@
 
 ## Zutaten für 4 Portionen
 
-- Bratcrème oder Bratbutter
-- 1 Zwiebel
-- 1 Knoblauchzehe
-- ½TL Paprika edelsüß
-- ½TL Ingwerpulver
-- 1TL Chilipulver
-- ½TL Kümmelpulver
-- 2dl Bouillon
-- 400g Hühnergeschnetzeltes
-- 280g schwarze Bohnen
-- 140g Mais aus der Dose
-- 400g gehackte Tomaten aus der Dose
-- 150g Langkornreis
-- 200g Mozzarella, gezupft
-- 1 Bund Petersilie, gehackt
-- 90g Crème fraîche
+| 1/1    | Zutat                         |
+|-------:|-------------------------------|
+|        | Bratcrème oder Bratbutter     |
+| 1      | Zwiebel                       |
+| 1      | Knoblauchzehe                 |
+| ½TL    | Paprika edelsüß               |
+| ½TL    | Ingwerpulver                  |
+| 1TL    | Chilipulver                   |
+| ½TL    | Kümmelpulver                  |
+| 2dl    | Bouillon                      |
+| 400g   | Hühnergeschnetzeltes          |
+| 280g   | schwarze Bohnen               |
+| 140g   | Mais aus der Dose             |
+| 400g   | gehackte Tomaten aus der Dose |
+| 150g   | Langkornreis                  |
+| 200g   | Mozzarella, gezupft           |
+| 1 Bund | Petersilie, gehackt           |
+| 90g    | Crème fraîche                 |
 
 ## Anleitung
 

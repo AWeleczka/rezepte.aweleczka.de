@@ -3,7 +3,7 @@
 ## Zutaten
 
 |  1/1  |  1/2  | Zutat                                          |
-|:-----:|:-----:|------------------------------------------------|
+|------:|------:|------------------------------------------------|
 | 500 g | 250 g | Nudeln (Spirelli Trocolore)                    |
 | 500 g | 250 g | Cocktailtomaten (halbiert oder geviertelt)     |
 | 250 g | 125 g | Mini-Mozzerella (halbiert oder geviertelt)     |
@@ -14,7 +14,12 @@
 
 ## Zubereitung
 
-1) Die Nudenln nach Packungsanweiseung kochen und abkühlen lassen.
-2) Die Tomaten und den Mozzerella schneiden.
-3) Dressing aus Pesto, Olivenöl, Balsamicoessig und Knoblauch herstellen, mit Salz & Pfeffer abschmecken.
-4) Nudeln gründlich mit dem Dressing mischen, danach Tomaten und Mozzerella untermischen.
+1. Die Nudenln nach Packungsanweiseung kochen und abkühlen lassen.
+
+2. Die Tomaten und den Mozzerella schneiden.
+
+3. Dressing aus Pesto, Olivenöl, Balsamicoessig und Knoblauch herstellen, mit
+   Salz & Pfeffer abschmecken.
+
+4. Nudeln gründlich mit dem Dressing mischen, danach Tomaten und Mozzerella
+   untermischen.

@@ -2,12 +2,14 @@
 
 ## Zutaten
 
-+ 3 kleine Kohlrabi
-+ 1 TL Salz
-+ 1 Prise Muskatnuss
-+ 200ml Sahne
-+ 1 EL Butter
-+ 1 EL Mehl
+| 1/1       | Zutat      |
+|----------:|------------|
+| 3 kleiner | Kohlrabi   |
+| 1 TL      | Salz       |
+| 1 Prise   | Muskatnuss |
+| 200ml     | Sahne      |
+| 1 EL      | Butter     |
+| 1 EL      | Mehl       |
 
 ## Zubereitung
 

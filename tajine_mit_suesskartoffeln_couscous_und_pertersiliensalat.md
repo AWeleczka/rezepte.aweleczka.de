@@ -2,34 +2,38 @@
 
 ## Zutaten
 
-### Für die Tajine:
+### Für die Tajine
 
-+ 60 g Schalotte(n)
-+ ¼ Bund Petersilie
-+ 2 Stängel Minze, frische
-+ 150 g Tatar
-+ 1 TL Ras el Hanout
-+ etwas Meersalz und Pfeffer, schwarzer
-+ 1 Stück(e) Ingwer, ca. 1 - 2 cm
-+ 1 Stück(e) Kurkuma, ca. 1 - 2 cm
-+  ½ Chilischote(n), rot
-+ 250 g Süßkartoffel(n)
-+ 1 TL Rapsöl
-+ 200 ml Wasser
-+ 250 g Tomaten, stückige aus der Dose
-+ ½ Zitrone(n), Saft davon
-+ 1 Zitrone(n), Bio-, geviertelt
-+ 40 g Couscous
+| 1/1                      | Zutat                           |
+|-------------------------:|---------------------------------|
+| 60 g                     | Schalotte(n)                    |
+| ¼ Bund                   | Petersilie                      |
+| 2 Stängel                | Minze, frische                  |
+| 150 g                    | Tatar                           |
+| 1 TL                     | Ras el Hanout                   |
+| etwas                    | Meersalz und Pfeffer, schwarzer |
+| 1 Stück(e), ca. 1 - 2 cm | Ingwer                          |
+| 1 Stück(e), ca. 1 - 2 cm | Kurkuma                         |
+| ½                        | Chilischote(n), rot             |
+| 250 g                    | Süßkartoffel(n)                 |
+| 1 TL                     | Rapsöl                          |
+| 200 ml                   | Wasser                          |
+| 250 g                    | Tomaten, stückige aus der Dose  |
+| ½                        | Zitrone(n), Saft davon          |
+| 1                        | Zitrone(n), Bio-, geviertelt    |
+| 40 g                     | Couscous                        |
 
-### Für den Salat:
+### Für den Salat
 
-+ ½ Bund Petersilie
-+ 100 g Tomate(n)
-+ 100 g Gurke(n)
-+ ½ Zitrone(n), Saft davon
-+ 50 g Zwiebel(n)
-+ 1 EL Olivenöl
-+ etwas Meersalz und Pfeffer, schwarzer
+| 1/1    | Zutat                           |
+|-------:|---------------------------------|
+| ½ Bund | Petersilie                      |
+| 100 g  | Tomate(n)                       |
+| 100 g  | Gurke(n)                        |
+| ½      | Zitrone(n), Saft davon          |
+| 50 g   | Zwiebel(n)                      |
+| 1 EL   | Olivenöl                        |
+| etwas  | Meersalz und Pfeffer, schwarzer |
 
 ## Anleitung
 

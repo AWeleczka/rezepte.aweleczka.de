@@ -2,11 +2,13 @@
 
 ## Zutaten
 
-+ Eier, 3, Größe M
-+ Milch, 750ml
-+ Mehl, 400g
-+ Salz, 1 Prise
-+ Fett für die Pfanne
+| 1/1     | Zutat               |
+|--------:|---------------------|
+| 3       | Eier, Größe M       |
+| 750ml   | Milch               |
+| 400g    | Mehl                |
+| 1 Prise | Salz                |
+|         | Fett für die Pfanne |
 
 ## Zubereitung
 

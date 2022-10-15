@@ -4,16 +4,18 @@ Zubereitungszeit: ca. 45 Min.
 
 ## Zutaten für 4 Personen
 
-- 400g Putengeschnetzeltes
-- 2-3 Paprikaschoten
-- 2 Zwiebeln
-- 3 EL Öl
-- Salz
-- Pfeffer
-- 3 TL edelsüßes Paprikapulver
-- 1 EL Mehl
-- 200g Schmand
-- 500g frische Spätzle
+| 1/1  | Zutat                   |
+|-----:|-------------------------|
+| 400g | Putengeschnetzeltes     |
+| 2-3  | Paprikaschoten          |
+| 2    | Zwiebeln                |
+| 3 EL | Öl                      |
+|      | Salz                    |
+|      | Pfeffer                 |
+| 3 TL | edelsüßes Paprikapulver |
+| 1 EL | Mehl                    |
+| 200g | Schmand                 |
+| 500g | frische Spätzle         |
 
 ## Anleitung
 

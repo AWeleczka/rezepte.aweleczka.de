@@ -2,18 +2,20 @@
 
 ## Zutaten
 
-+ Olivenöl, 1 EL
-+ Rinderhackfleisch, 150 g
-+ Tomatenmark, 3 EL
-+ Gemüsebrühe, 200 ml
-+ Sahne, 200 ml
-+ Butter, kalte, 1 EL
-+ Parmesan, frisch gerieben, 1 EL
-+ Rigatoni, 400 g
-+ Kochschinken, 150 g
-+ Edamer Käse, gerieben, 200 g
-+ Salz
-+ Cayennepfeffer
+| 1/1    | Zutat                     |
+|-------:|---------------------------|
+| 1 EL   | Olivenöl                  |
+| 150 g  | Rinderhackfleisch         |
+| 3 EL   | Tomatenmark               |
+| 200 ml | Gemüsebrühe               |
+| 200 ml | Sahne                     |
+| 1 EL   | Butter, kalte             |
+| 1 EL   | Parmesan, frisch gerieben |
+| 400 g  | Rigatoni                  |
+| 150 g  | Kochschinken              |
+| 200 g  | Edamer Käse, gerieben     |
+|        | Salz                      |
+|        | Cayennepfeffer            |
 
 ## Anleitung
 
@@ -45,4 +47,4 @@
 
 ## Quelle
 
-(Mit Anpassung) https://www.chefkoch.de/rezepte/1299041235031624/Rigatoni-al-forno.html
+(Mit Anpassung) [chefkoch.de](https://www.chefkoch.de/rezepte/1299041235031624/Rigatoni-al-forno.html)

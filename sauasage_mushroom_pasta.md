@@ -1,17 +1,17 @@
 # Sausage & Mushroom Pasta
 
-Für 4 Portionen - Sorted Food
+## Zutaten für 4 Portionen
 
-## Zutaten
-
-+ 4 grobe Bratwürste
-+ 2 kleine oder 1 große weiße Zwiebel
-+ 6 kleine oder 2 große Champignons
-+ 4 Kleckse Crème fraîche
-+ 1 Handvoll frischer Babyspinat
-+ 1 Handvoll geriebener Cheddar
-+ Etwas frischer, gehackter Petersilie
-+ 400g Fussili Nudeln
+| 1/1                   | Zutat                         |
+|----------------------:|-------------------------------|
+| 4                     | grobe Bratwürste              |
+| 2 kleine oder 1 große | weiße Zwiebel                 |
+| 6 kleine oder 2 große | Champignons                   |
+| 4 Kleckse             | Crème fraîche                 |
+| 1 Handvoll            | frischer Babyspinat           |
+| 1 Handvoll            | geriebener Cheddar            |
+| Etwas                 | frische, gehackter Petersilie |
+| 400g                  | Fussili Nudeln                |
 
 ## Zubereitung
 
@@ -30,3 +30,7 @@ Für 4 Portionen - Sorted Food
 7. Nudeln zugeben.
 
 8. Mit der Crème fraîche eine Sauce daraus bilden und servieren.
+
+## Quelle
+
+Sorted Food

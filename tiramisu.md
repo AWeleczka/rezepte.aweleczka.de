@@ -2,20 +2,22 @@
 
 ## Zubereitungszeit
 
-Arbeitszeit: ~25min.  
-Ruhezeit: ~4h  
-Gesamt: ~4h 25min.
+- Arbeitszeit: ~25min.
+- Ruhezeit: ~4h
+- Gesamt: ~4h 25min.
 
 ## Zutaten (für 6 Portionen)
 
-- 3 Eier
-- 50g Zucker
-- 250g Mascarpone
-- 1 Prise Zitronenabrieb
-- 200g Löffelbiskuits
-- 4 Tassen Espresso (Espressotassen)
-- 5cl Marsala oder Kaffeelikör
-- Kakaopulver
+| 1/1      | Zutat                     |
+|---------:|---------------------------|
+| 3        | Eier                      |
+| 50g      | Zucker                    |
+| 250g     | Mascarpone                |
+| 1 Prise  | Zitronenabrieb            |
+| 200g     | Löffelbiskuits            |
+| 4 Tassen | Espresso (Espressotassen) |
+| 5cl      | Marsala oder Kaffeelikör  |
+|          | Kakaopulver               |
 
 ## Anleitung
 

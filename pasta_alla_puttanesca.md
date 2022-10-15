@@ -2,17 +2,19 @@
 
 ## Zutaten
 
-+ 400g Linguini
-+ 3 EL Olivenöl
-+ 4 Knoblauchzehen
-+ 2 EL Kapern
-+ 8 Sardellenfilets aus der Dose
-+ 350g Passata
-+ 80g schwarze Oliven
-+ 1 TL Oregano
-+ 1/2 TL Chiliflocken
-+ Salz & Pfeffer
-+ Frisch geriebener Parmesan
+| 1/1    | Zutat                        |
+|-------:|------------------------------|
+| 400g   | Linguini                     |
+| 3 EL   | Olivenöl                     |
+| 4      | Knoblauchzehen               |
+| 2 EL   | Kapern                       |
+| 8      | Sardellenfilets aus der Dose |
+| 350g   | Passata                      |
+| 80g    | schwarze Oliven              |
+| 1 TL   | Oregano                      |
+| 1/2 TL | Chiliflocken                 |
+|        | Salz & Pfeffer               |
+|        | Frisch geriebener Parmesan   |
 
 ## Zubereitung
 

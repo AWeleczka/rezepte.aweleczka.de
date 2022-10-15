@@ -4,37 +4,43 @@
 
 ### Für das Hähnchen (Für 4 Portionen)
 
-+ Joghurt : 3 Esslöffel
-+ Limettenschale : 0,5 Limetten
-+ Limettensaft : 0,5 Limetten
-+ Salz : 1 Teelöffel
-+ Paprikapulver : 0,5 Teelöffel
-+ Kreuzkümmelpulver : 0,5 Teelöffel
-+ Korianderpulver : 0,25 Teelöffel
-+ Cayennepfeffer : 0,125 Teelöffel
-+ Pfeffer : 0,125 Teelöffel
-+ Kardamompulver : 0,125 Teelöffel
-+ Zimtpulver : 0,125 Teelöffel
-+ Pimentpulver : 0,125 Teelöffel
-+ Hähnchenteile mit Haut : 1-1,5 kg / 0,5 Hähnchen
+| 1/1                     | Zutat                  |
+|------------------------:|------------------------|
+| 3 Esslöffel             | Joghurt                |
+| 0,5 Limetten            | Limettenschale         |
+| 0,5 Limetten            | Limettensaft           |
+| 1 Teelöffel             | Salz                   |
+| 0,5 Teelöffel           | Paprikapulver          |
+| 0,5 Teelöffel           | Kreuzkümmelpulver      |
+| 0,25 Teelöffel          | Korianderpulver        |
+| 0,125 Teelöffel         | Cayennepfeffer         |
+| 0,125 Teelöffel         | Pfeffer                |
+| 0,125 Teelöffel         | Kardamompulver         |
+| 0,125 Teelöffel         | Zimtpulver             |
+| 0,125 Teelöffel         | Pimentpulver           |
+| 1-1,5 kg / 0,5 Hähnchen | Hähnchenteile mit Haut |
 
 ### Für den Reis (Für 8 Portionen)
 
-+ Safran : Eine Priese
-+ Hühnerbrühe : 2,25 Tassen
-+ Butter : 2 Esslöffel
-+ Salz : 1 Teelöffel
-+ Basmatireis : 1,5 Tassen
-+ Olivenöl : Eine Priese
+| 1/1         | Zutat       |
+|------------:|-------------|
+| Eine Priese | Safran      |
+| 2,25 Tassen | Hühnerbrühe |
+| 2 Esslöffel | Butter      |
+| 1 Teelöffel | Salz        |
+| 1,5 Tassen  | Basmatireis |
+| Eine Priese | Olivenöl    |
 
 ### Für die Sauce (Für 8 Portionen - optional)
 
-+ Joghurt : 0,5 Tassen
-+ Knoblauch : 2 Zehen
-+ Frühlingszwiebeln : 2 Esslöffel
-+ Frische Minze : 2 Esslöffel
-+ Frische Petersilie : 2 Esslöffel
-+ Wasser : Für Konsistenz
+| 1/1            | Zutat              |
+|---------------:|--------------------|
+| 0,5 Tassen     | Joghurt            |
+| 2 Zehen        | Knoblauch          |
+| 2 Esslöffel    | Frühlingszwiebeln  |
+| 2 Esslöffel    | Frische Minze      |
+| 2 Esslöffel    | Frische Petersilie |
+| Für Konsistenz | Wasser             |
 
 ## Zubereitung
 
@@ -65,7 +71,7 @@
 
 ### Reis und Hähnchen (1 Stunde)
 
-**Ofen auf 200°C Umluft vorheizen**
+Zuerst: **Ofen auf 200°C Umluft vorheizen**
 
 1. Eine Ofenform mit Olivenöl einfetten.
 

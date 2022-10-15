@@ -8,23 +8,25 @@
 
 ## Zutaten
 
-- ½kg Schweinefilets
-- ½EL Öl
-- ½EL Butter
-- Salz und Pfeffer
-- 1 mittelgroße Zwiebel, fein gewürfelt
-- ½ Knoblauchzehe, fein gewürfelt
-- 50g Katenschinken, in sehr kleine Würfel geschnitten
-- 250g Champignons
-- 100ml Fleischbrühe oder Gemüsebrühe
-- 100ml Sahne
-- 100g Crème fraîche oder Schmand
-- ½EL Tomatenmark, 3-fach konzentriert
-- ½TL Senf
-- Speisestärke, optional
-- ½ Bund gehackte Petersilie
-  oder
-  3EL TK-Petersilie
+| 1/1    | Zutat                                            |
+|-------:|--------------------------------------------------|
+| ½kg    | Schweinefilets                                   |
+| ½EL    | Öl                                               |
+| ½EL    | Butter                                           |
+|        | Salz und Pfeffer                                 |
+| 1      | mittelgroße Zwiebel, fein gewürfelt              |
+| ½      | Knoblauchzehe, fein gewürfelt                    |
+| 50g    | Katenschinken, in sehr kleine Würfel geschnitten |
+| 250g   | Champignons                                      |
+| 100ml  | Fleischbrühe oder Gemüsebrühe                    |
+| 100ml  | Sahne                                            |
+| 100g   | Crème fraîche oder Schmand                       |
+| ½EL    | Tomatenmark, 3-fach konzentriert                 |
+| ½TL    | Senf                                             |
+|        | Speisestärke, optional                           |
+| ½ Bund | gehackte Petersilie                              |
+|        | oder                                             |
+| 3EL    | TK-Petersilie                                    |
 
 ## Anleitung
 

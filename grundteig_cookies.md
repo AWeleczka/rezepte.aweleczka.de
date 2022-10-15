@@ -2,13 +2,15 @@
 
 ## Zutaten (Für 18 Cookies)
 
-+ Mehl : 200 g
-+ Zucker : 175 g
-+ Vanillezucker : 1 Päckchen
-+ Backpulver : 1 Teelöffel
-+ Butter, weich : 125 g
-+ Ei : 1, Größe M
-+ Salz : 1 Prise
+| 1/1         | Zutat         |
+|------------:|---------------|
+| 200g        | Mehl          |
+| 175g        | Zucker        |
+| 1 Päckchen  | Vanillezucker |
+| 1 Teelöffel | Backpulver    |
+| 125 g       | Butter, weich |
+| 1, Größe M  | Ei            |
+| 1 Prise     | Salz          |
 
 ## Zubereitung
 
@@ -33,4 +35,4 @@
 
 ## Quelle
 
-https://www.lecker.de/cookies-der-grundteig-15241.html
+[lecker.de](https://www.lecker.de/cookies-der-grundteig-15241.html)

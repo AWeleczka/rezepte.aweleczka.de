@@ -2,16 +2,20 @@
 
 ## Zutaten
 
-+ 400g Penne Nudeln
-+ 3 Knoblauchzehen, gepresst
-+ 2 Zwiebeln, gewürfelt
-+ 2 Chilischoten, rot / alt: 1 TL Chiliflocken
-+ 2 EL Tomatenmark
-+ 20-25 Oliven, schwarz, entsteint
-+ 800g Dosentomaten, Stückig
-+ Petersilie (Optional)
-+ Parmesan, frisch gerieben
-+ Pfeffer, Salz, Olivenöl
+| 1/1   | Zutat                      |
+|------:|----------------------------|
+| 400g  | Penne Nudeln               |
+| 3     | Knoblauchzehen, gepresst   |
+| 2     | Zwiebeln, gewürfelt        |
+| 2     | Chilischoten, rot          |
+|       | oder                       |
+| 1 TL  | Chiliflocken               |
+| 2 EL  | Tomatenmark                |
+| 20-25 | Oliven, schwarz, entsteint |
+| 800g  | Dosentomaten, Stückig      |
+|       | Petersilie (Optional)      |
+|       | Parmesan, frisch gerieben  |
+|       | Pfeffer, Salz, Olivenöl    |
 
 ## Anleitung
 
