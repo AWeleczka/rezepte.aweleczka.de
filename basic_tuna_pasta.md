@@ -7,16 +7,17 @@
 | 1          | rote Zwiebel, fein gehackt  |
 | 1          | Knoblauchzehe, fein gehackt |
 | ½EL        | Chiliflocken                |
-| 1 Dose     | passierte Tomaten           |
+| 1 Dose     | stückige Tomaten            |
 | 200g       | Spaghetti                   |
 | 1TL        | Weinessig                   |
 | 2 Dosen    | Thunfisch in Öl             |
 | 1 handvoll | Basilikum (optional)        |
 |            | Salz                        |
+|            | Olivenöl                    |
 
 ## Schritte
 
-1. Das Thunfischöl in eine Pfanne gießen und erwärmen.
+1. Das Olivenöl in eine Pfanne gießen und erwärmen.
 
 2. Die Zwiebel und den Knoblauch anbraten, dann die Chiliflocken hinzu geben und
    ~3min mit braten.
