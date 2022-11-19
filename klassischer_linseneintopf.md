@@ -11,6 +11,7 @@ Dauer: 60 Min (Aktiv: 30 Min)
 | Gramm       | 150     | Bauchspeck      |
 | Gramm       | 200     | Berglinsen      |
 | Gramm       | 200     | Karotten        |
+| Gramm       | 300     | Kartoffeln (FK) |
 | Gramm       | 100     | Knollensellerie |
 | Stück       | 0,5     | Lauch           |
 | Stück       | 2       | Lorbeerblatt    |
