@@ -2,13 +2,13 @@
 
 ## Zutaten
 
-| 1/1     | Zutat               |
-|--------:|---------------------|
-| 3       | Eier, Größe M       |
-| 750ml   | Milch               |
-| 400g    | Mehl                |
-| 1 Prise | Salz                |
-|         | Fett für die Pfanne |
+| Einheit        | 1   | Zutat               |
+|----------------|----:|---------------------|
+| Stück, Größe M | 3   | Eier                |
+| Milliliter     | 750 | Milch               |
+| Gramm          | 400 | Mehl                |
+| Prise          | 1   | Salz                |
+|                |     | Fett für die Pfanne |
 
 ## Zubereitung
 

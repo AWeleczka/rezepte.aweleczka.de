@@ -1,25 +1,25 @@
 # Chicken One Pot Burrito-Style
 
-## Zutaten für 4 Portionen
+## Zutaten
 
-| 1/1    | Zutat                         |
-|-------:|-------------------------------|
-|        | Bratcrème oder Bratbutter     |
-| 1      | Zwiebel                       |
-| 1      | Knoblauchzehe                 |
-| ½TL    | Paprika edelsüß               |
-| ½TL    | Ingwerpulver                  |
-| 1TL    | Chilipulver                   |
-| ½TL    | Kümmelpulver                  |
-| 2dl    | Bouillon                      |
-| 400g   | Hühnergeschnetzeltes          |
-| 280g   | schwarze Bohnen               |
-| 140g   | Mais aus der Dose             |
-| 400g   | gehackte Tomaten aus der Dose |
-| 150g   | Langkornreis                  |
-| 200g   | Mozzarella, gezupft           |
-| 1 Bund | Petersilie, gehackt           |
-| 90g    | Crème fraîche                 |
+| Einheit    | 4p* | Zutat                         |
+|------------|----:|-------------------------------|
+| Stück      | 1   | Zwiebel                       |
+| Zehe       | 1   | Knoblauch                     |
+| Teelöffel  | 0,5 | Paprika edelsüß               |
+| Teelöffel  | 0,5 | Ingwerpulver                  |
+| Teelöffel  | 1   | Chilipulver                   |
+| Teelöffel  | 0,5 | Kümmelpulver                  |
+| Milliliter | 20  | Bouillon                      |
+| Gramm      | 400 | Hühnergeschnetzeltes          |
+| Gramm      | 280 | schwarze Bohnen               |
+| Gramm      | 140 | Mais aus der Dose             |
+| Gramm      | 400 | gehackte Tomaten aus der Dose |
+| Gramm      | 150 | Langkornreis                  |
+| Gramm      | 200 | Mozzarella, gezupft           |
+| Bund       | 1   | Petersilie, gehackt           |
+| Gramm      | 90  | Crème fraîche                 |
+|            |     | Bratcrème oder Bratbutter     |
 
 ## Anleitung
 

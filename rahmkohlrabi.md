@@ -2,14 +2,14 @@
 
 ## Zutaten
 
-| 1/1       | Zutat      |
-|----------:|------------|
-| 3 kleiner | Kohlrabi   |
-| 1 TL      | Salz       |
-| 1 Prise   | Muskatnuss |
-| 200ml     | Sahne      |
-| 1 EL      | Butter     |
-| 1 EL      | Mehl       |
+| Einheit       | 1   | Zutat      |
+|---------------|----:|------------|
+| Stück, kleine | 3   | Kohlrabi   |
+| Teelöffel     | 1   | Salz       |
+| Prise         | 1   | Muskatnuss |
+| Milliliter    | 200 | Sahne      |
+| Esslöffel     | 1   | Butter     |
+| Esslöffel     | 1   | Mehl       |
 
 ## Zubereitung
 

@@ -1,39 +1,39 @@
-# Marokkanische Tajine mit Süßkartoffeln, Couscous und Petersiliensalat
+# Marokkanische Tagine mit Süßkartoffeln, Couscous und Petersiliensalat
 
 ## Zutaten
 
-### Für die Tajine
+### Für die Tagine
 
-| 1/1                      | Zutat                           |
-|-------------------------:|---------------------------------|
-| 60 g                     | Schalotte(n)                    |
-| ¼ Bund                   | Petersilie                      |
-| 2 Stängel                | Minze, frische                  |
-| 150 g                    | Tatar                           |
-| 1 TL                     | Ras el Hanout                   |
-| etwas                    | Meersalz und Pfeffer, schwarzer |
-| 1 Stück(e), ca. 1 - 2 cm | Ingwer                          |
-| 1 Stück(e), ca. 1 - 2 cm | Kurkuma                         |
-| ½                        | Chilischote(n), rot             |
-| 250 g                    | Süßkartoffel(n)                 |
-| 1 TL                     | Rapsöl                          |
-| 200 ml                   | Wasser                          |
-| 250 g                    | Tomaten, stückige aus der Dose  |
-| ½                        | Zitrone(n), Saft davon          |
-| 1                        | Zitrone(n), Bio-, geviertelt    |
-| 40 g                     | Couscous                        |
+| Einheit          | 1*   | Zutat                           |
+|------------------|-----:|---------------------------------|
+| Gramm            | 60   | Schalotte(n)                    |
+| Bund             | 0,25 | Petersilie                      |
+| Stängel          | 2    | Minze, frische                  |
+| Gramm            | 150  | Tatar                           |
+| Teelöffel        | 1    | Ras el Hanout                   |
+| Stück, ca. 1-2cm | 1    | Ingwer                          |
+| Stück, ca. 1-2cm | 1    | Kurkuma                         |
+| Schoten          | 0,5  | Chili                           |
+| Gramm            | 250  | Süßkartoffel(n)                 |
+| Teelöffel        | 1    | Rapsöl                          |
+| Milliliter       | 200  | Wasser                          |
+| Gramm            | 250  | Tomaten, stückige aus der Dose  |
+| Stück            | 0,5  | Zitrone(n), Saft davon          |
+| Stück            | 1    | Zitrone(n), Bio-, geviertelt    |
+| Gramm            | 40   | Couscous                        |
+| etwas            |      | Meersalz und Pfeffer, schwarzer |
 
 ### Für den Salat
 
-| 1/1    | Zutat                           |
-|-------:|---------------------------------|
-| ½ Bund | Petersilie                      |
-| 100 g  | Tomate(n)                       |
-| 100 g  | Gurke(n)                        |
-| ½      | Zitrone(n), Saft davon          |
-| 50 g   | Zwiebel(n)                      |
-| 1 EL   | Olivenöl                        |
-| etwas  | Meersalz und Pfeffer, schwarzer |
+| Einheit         | 1*  | Zutat                           |
+|-----------------|----:|---------------------------------|
+| Bund            | 0,5 | Petersilie                      |
+| Gramm           | 100 | Tomate                          |
+| Gramm           | 100 | Gurke                           |
+| Stück, Saft von | 0,5 | Zitrone                         |
+| Gramm           | 50  | Zwiebel                         |
+| Esslöffel       | 1   | Olivenöl                        |
+| etwas           |     | Meersalz und Pfeffer, schwarzer |
 
 ## Anleitung
 
@@ -49,11 +49,11 @@
    Chilischote waschen und in kleine Würfel schneiden. Die Süßkartoffeln schälen
    und in mundgerechte Stücke schneiden.
 
-4. 1 TL Öl in der Tajine oder einem gusseisernen Topf bei niedriger Temperatur
+4. 1 TL Öl in der Tagine oder einem gusseisernen Topf bei niedriger Temperatur
    erhitzen und die andere Hälfte der Schalotten, den Ingwer, die Kurkuma und
    Chili für ca. 3 Minuten glasig anschwitzen.
 
-5. Anschließend 200 ml Wasser und die gewürfelten Tomaten in die Tajine geben.
+5. Anschließend 200 ml Wasser und die gewürfelten Tomaten in die Tagine geben.
    Die Flüssigkeit aufkochen lassen und zugedeckt etwa 5 Minuten einköcheln
    lassen.
 

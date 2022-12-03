@@ -2,17 +2,17 @@
 
 ## Zutaten
 
-| 1/1  | Zutat                   |
-|-----:|-------------------------|
-| 250g | Essig                   |
-| 250g | Wasser                  |
-| 150g | Zucker                  |
-| 30g  | Salz                    |
-| 20g  | Brühe, Gekörntes Pulver |
-| 200g | Schmand                 |
-| 300g | Joghurt natur           |
-| 60g  | Senf mittelscharf       |
-| 250g | Öl                      |
+| Einheit | 1   | Zutat                   |
+|---------|----:|-------------------------|
+| Gramm   | 250 | Essig                   |
+| Gramm   | 250 | Wasser                  |
+| Gramm   | 150 | Zucker                  |
+| Gramm   | 30  | Salz                    |
+| Gramm   | 20  | Brühe, Gekörntes Pulver |
+| Gramm   | 200 | Schmand                 |
+| Gramm   | 300 | Joghurt natur           |
+| Gramm   | 60  | Senf mittelscharf       |
+| Gramm   | 250 | Öl                      |
 
 ## Beschreibung
 

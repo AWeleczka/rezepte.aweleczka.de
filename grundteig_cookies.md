@@ -2,15 +2,15 @@
 
 ## Zutaten (Für 18 Cookies)
 
-| 1/1         | Zutat         |
-|------------:|---------------|
-| 200g        | Mehl          |
-| 175g        | Zucker        |
-| 1 Päckchen  | Vanillezucker |
-| 1 Teelöffel | Backpulver    |
-| 125 g       | Butter, weich |
-| 1, Größe M  | Ei            |
-| 1 Prise     | Salz          |
+| Einheit        | 18 Stück* | Zutat         |
+|----------------|----------:|---------------|
+| Gramm          | 200       | Mehl          |
+| Gramm          | 175       | Zucker        |
+| Päckchen       | 1         | Vanillezucker |
+| Teelöffel      | 1         | Backpulver    |
+| Gramm          | 125       | Butter, weich |
+| Stück, Größe M | 1         | Ei            |
+| Prise          | 1         | Salz          |
 
 ## Zubereitung
 

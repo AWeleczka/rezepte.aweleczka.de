@@ -2,45 +2,45 @@
 
 ## Zutaten
 
-### Für das Hähnchen (Für 4 Portionen)
+### Für das Hähnchen
 
-| 1/1                     | Zutat                  |
-|------------------------:|------------------------|
-| 3 Esslöffel             | Joghurt                |
-| 0,5 Limetten            | Limettenschale         |
-| 0,5 Limetten            | Limettensaft           |
-| 1 Teelöffel             | Salz                   |
-| 0,5 Teelöffel           | Paprikapulver          |
-| 0,5 Teelöffel           | Kreuzkümmelpulver      |
-| 0,25 Teelöffel          | Korianderpulver        |
-| 0,125 Teelöffel         | Cayennepfeffer         |
-| 0,125 Teelöffel         | Pfeffer                |
-| 0,125 Teelöffel         | Kardamompulver         |
-| 0,125 Teelöffel         | Zimtpulver             |
-| 0,125 Teelöffel         | Pimentpulver           |
-| 1-1,5 kg / 0,5 Hähnchen | Hähnchenteile mit Haut |
+| Einheit   | 4p*                  | Zutat                  |
+|-----------|---------------------:|------------------------|
+| Esslöffel | 3                    | Joghurt                |
+| Limetten  | 0,5                  | Limettenschale         |
+| Limetten  | 0,5                  | Limettensaft           |
+| Teelöffel | 1                    | Salz                   |
+| Teelöffel | 0,5                  | Paprikapulver          |
+| Teelöffel | 0,5                  | Kreuzkümmelpulver      |
+| Teelöffel | 0,25                 | Korianderpulver        |
+| Teelöffel | 0,125                | Cayennepfeffer         |
+| Teelöffel | 0,125                | Pfeffer                |
+| Teelöffel | 0,125                | Kardamompulver         |
+| Teelöffel | 0,125                | Zimtpulver             |
+| Teelöffel | 0,125                | Pimentpulver           |
+| Kilogramm | 1-1,5 / 0,5 Hähnchen | Hähnchenteile mit Haut |
 
-### Für den Reis (Für 8 Portionen)
+### Für den Reis
 
-| 1/1         | Zutat       |
-|------------:|-------------|
-| Eine Priese | Safran      |
-| 2,25 Tassen | Hühnerbrühe |
-| 2 Esslöffel | Butter      |
-| 1 Teelöffel | Salz        |
-| 1,5 Tassen  | Basmatireis |
-| Eine Priese | Olivenöl    |
+| Einheit   | 8p*  | Zutat       |
+|-----------|-----:|-------------|
+| Priese    | 1    | Safran      |
+| Tasse(n)  | 2,25 | Hühnerbrühe |
+| Esslöffel | 2    | Butter      |
+| Teelöffel | 1    | Salz        |
+| Tasse(n)  | 1,5  | Basmatireis |
+| Priese    | 1    | Olivenöl    |
 
-### Für die Sauce (Für 8 Portionen - optional)
+### Für die Sauce
 
-| 1/1            | Zutat              |
-|---------------:|--------------------|
-| 0,5 Tassen     | Joghurt            |
-| 2 Zehen        | Knoblauch          |
-| 2 Esslöffel    | Frühlingszwiebeln  |
-| 2 Esslöffel    | Frische Minze      |
-| 2 Esslöffel    | Frische Petersilie |
-| Für Konsistenz | Wasser             |
+| Einheit     | 8p* | Zutat              |
+|-------------|----:|--------------------|
+| Tasse(n)    | 0,5 | Joghurt            |
+| Zehe(n)     | 2   | Knoblauch          |
+| Esslöffel   | 2   | Frühlingszwiebeln  |
+| Esslöffel   | 2   | Frische Minze      |
+| Esslöffel   | 2   | Frische Petersilie |
+| Nach Bedarf |     | Wasser             |
 
 ## Zubereitung
 

@@ -2,16 +2,14 @@
 
 ## Zutaten
 
-| 1/1            | Zutat                      |
-|---------------:|----------------------------|
-| 1 große Tasse  | Reis                       |
-| 2              | Hühnerbrüste               |
-| 1 kleines Glas | Oliven, schwarz, entsteint |
-| 3              | Zwiebeln                   |
-| 200g           | Feta                       |
-|                | Gyrosgewürz                |
-|                | Salz und Pfeffer           |
-|                | Olivenöl zum Anbraten      |
+| Einheit   | 4p* | 2p  | Zutat                      |
+|-----------|----:|----:|----------------------------|
+| Tasse     | 1   | 0,5 | Reis                       |
+| Stück     | 2   | 1   | Hühnerbrüste               |
+| Glas, kl. | 1   | 0,5 | Oliven, schwarz, entsteint |
+| Stück     | 3   | 2   | Zwiebeln                   |
+| Gramm     | 200 | 100 | Feta                       |
+|           |     |     | Gyrosgewürz                |
 
 ## Anleitung
 

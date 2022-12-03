@@ -2,16 +2,16 @@
 
 ## Zutaten
 
-| 1/1        | Zutat                    |
-|-----------:|--------------------------|
-| 700g       | Ribeye (Ohne Knochen)    |
-| 1 TL       | Salz                     |
-| 2 EL       | Öl                       |
-| 4 Scheiben | Provolone                |
-| 60g        | süß-scharfe Peperoni     |
-| 2EL        | Ketchup                  |
-| 2EL        | Mayonese                 |
-| 2          | Sandwichbrote, feinporig |
+| Einheit   | 2 Stück* | Zutat                    |
+|-----------|---------:|--------------------------|
+| Gramm     | 700      | Ribeye (Ohne Knochen)    |
+| Teelöffel | 1        | Salz                     |
+| Esslöffel | 2        | Öl                       |
+| Scheiben  | 4        | Provolone                |
+| Gramm     | 60       | süß-scharfe Peperoni     |
+| Esslöffel | 2        | Ketchup                  |
+| Esslöffel | 2        | Mayonese                 |
+| Brot(e)   | 2        | Sandwichbrote, feinporig |
 
 ## Anleitung
 

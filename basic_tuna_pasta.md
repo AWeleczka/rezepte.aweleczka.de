@@ -2,18 +2,15 @@
 
 ## Zutaten
 
-| 1/1        | Zutat                       |
-|-----------:|-----------------------------|
-| 1          | rote Zwiebel, fein gehackt  |
-| 1          | Knoblauchzehe, fein gehackt |
-| ½EL        | Chiliflocken                |
-| 1 Dose     | stückige Tomaten            |
-| 200g       | Spaghetti                   |
-| 1TL        | Weinessig                   |
-| 2 Dosen    | Thunfisch in Öl             |
-| 1 handvoll | Basilikum (optional)        |
-|            | Salz                        |
-|            | Olivenöl                    |
+| Einheit   | 4p* | Zutat                      |
+|-----------|----:|----------------------------|
+| Stück     | 1   | rote Zwiebel, fein gehackt |
+| Zehe      | 1   | Knoblauch, fein gehackt    |
+| Esslöffel | 0,5 | Chiliflocken               |
+| Dose(n)   | 1   | stückige Tomaten           |
+| Gramm     | 200 | Spaghetti                  |
+| Teelöffel | 1   | Weinessig                  |
+| Dose(n)   | 2   | Thunfisch in Öl            |
 
 ## Schritte
 

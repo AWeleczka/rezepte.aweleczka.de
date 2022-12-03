@@ -2,20 +2,19 @@
 
 ## Zutaten
 
-| 1/1    | Zutat                     |
-|-------:|---------------------------|
-| 1 EL   | Olivenöl                  |
-| 150 g  | Rinderhackfleisch         |
-| 3 EL   | Tomatenmark               |
-| 200 ml | Gemüsebrühe               |
-| 200 ml | Sahne                     |
-| 1 EL   | Butter, kalte             |
-| 1 EL   | Parmesan, frisch gerieben |
-| 400 g  | Rigatoni                  |
-| 150 g  | Kochschinken              |
-| 200 g  | Edamer Käse, gerieben     |
-|        | Salz                      |
-|        | Cayennepfeffer            |
+| Einheit    | 1/1 | Zutat                     |
+|------------|----:|---------------------------|
+| Esslöffel  | 1   | Olivenöl                  |
+| Gramm      | 150 | Rinderhackfleisch         |
+| Esslöffel  | 3   | Tomatenmark               |
+| Milliliter | 200 | Gemüsebrühe               |
+| Milliliter | 200 | Sahne                     |
+| Esslöffel  | 1   | Butter, kalte             |
+| Esslöffel  | 1   | Parmesan, frisch gerieben |
+| Gramm      | 400 | Rigatoni                  |
+| Gramm      | 150 | Kochschinken              |
+| Gramm      | 200 | Edamer Käse, gerieben     |
+|            |     | Cayennepfeffer            |
 
 ## Anleitung
 

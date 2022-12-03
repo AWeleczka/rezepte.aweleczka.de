@@ -1,17 +1,17 @@
 # Sausage & Mushroom Pasta
 
-## Zutaten für 4 Portionen
+## Zutaten
 
-| 1/1                   | Zutat                         |
-|----------------------:|-------------------------------|
-| 4                     | grobe Bratwürste              |
-| 2 kleine oder 1 große | weiße Zwiebel                 |
-| 6 kleine oder 2 große | Champignons                   |
-| 4 Kleckse             | Crème fraîche                 |
-| 1 Handvoll            | frischer Babyspinat           |
-| 1 Handvoll            | geriebener Cheddar            |
-| Etwas                 | frische, gehackter Petersilie |
-| 400g                  | Fussili Nudeln                |
+| Einheit  | 4p*                   | Zutat                         |
+|----------|----------------------:|-------------------------------|
+| Stück    | 4                     | grobe Bratwürste              |
+| Stück    | 2 kleine oder 1 große | weiße Zwiebel                 |
+| Stück    | 6 kleine oder 2 große | Champignons                   |
+| Kleckse  | 4                     | Crème fraîche                 |
+| Handvoll | 1                     | frischer Babyspinat           |
+| Handvoll | 1                     | geriebener Cheddar            |
+| Etwas    |                       | frische, gehackter Petersilie |
+| Gramm    | 400                   | Fussili Nudeln                |
 
 ## Zubereitung
 

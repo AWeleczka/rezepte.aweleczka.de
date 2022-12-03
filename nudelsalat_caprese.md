@@ -2,15 +2,15 @@
 
 ## Zutaten
 
-|  1/1  |  1/2  | Zutat                                          |
-|------:|------:|------------------------------------------------|
-| 500 g | 250 g | Nudeln (Spirelli Trocolore)                    |
-| 500 g | 250 g | Cocktailtomaten (halbiert oder geviertelt)     |
-| 250 g | 125 g | Mini-Mozzerella (halbiert oder geviertelt)     |
-| 190 g |  95 g | Pesto ala Genovese                             |
-|  8 EL |  4 EL | Olivenöl                                       |
-|  8 EL |  4 EL | Balsamicoessig, dunkel (nicht Balsamico Creme) |
-|   2   |   1   | Knoblauchzehen (gepresst)                      |
+| Einheit   | 1*   | 0,5 | Zutat                                          |
+|-----------|-----:|----:|------------------------------------------------|
+| Gramm     | 500  | 250 | Nudeln (Spirelli Trocolore)                    |
+| Gramm     | 500  | 250 | Cocktailtomaten (halbiert oder geviertelt)     |
+| Gramm     | 250  | 125 | Mini-Mozzerella (halbiert oder geviertelt)     |
+| Gramm     | 190  | 95  | Pesto ala Genovese                             |
+| Esslöffel | 8    | 4   | Olivenöl                                       |
+| Esslöffel | 8    | 4   | Balsamicoessig, dunkel (nicht Balsamico Creme) |
+| Zehe(n)   | 2    | 1   | Knoblauch (gepresst)                           |
 
 ## Zubereitung
 

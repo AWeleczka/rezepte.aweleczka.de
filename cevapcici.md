@@ -2,14 +2,14 @@
 
 ## Zutaten
 
-|  1/1  | Zutat                     |
-|------:|---------------------------|
-| 400 g | Hackfleisch (gemischt)    |
-|   1   | Zwiebel, klein            |
-|   1   | Knoblauch, Zehe           |
-| 100 g | Feta Käse                 |
-|  n.B. | Paniermehl                |
-|  n.B. | Gyros Gewürzmischung      |
+| Einheit | 1   | Zutat                  |
+|---------|----:|------------------------|
+| Gramm   | 400 | Hackfleisch (gemischt) |
+| Stück   | 1   | Zwiebel, klein         |
+| Zehe    | 1   | Knoblauch              |
+| Gramm   | 100 | Feta                   |
+|         |     | Paniermehl             |
+|         |     | Gyros Gewürzmischung   |
 
 ## Anleitung
 

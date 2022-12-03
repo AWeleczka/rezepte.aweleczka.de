@@ -2,16 +2,15 @@
 
 ## Zutaten
 
-| 1/1            | Zutat                        |
-|---------------:|------------------------------|
-| 350 g          | Spaghetti, Aus Bronze Formen |
-| 100 g          | Pancetta                     |
-| 50 g           | Pecorini                     |
-| 50 g           | Parmesan                     |
-| 3, größe L     | Eier                         |
-| 2, große Zehen | Knoblauch                    |
-| 50 g           | Butter                       |
-| Nach Bedarf    | Salz, Pfeffer                |
+| Einheit        | 4p* | Zutat                        |
+|----------------|----:|------------------------------|
+| Gramm          | 350 | Spaghetti, Aus Bronze Formen |
+| Gramm          | 100 | Pancetta                     |
+| Gramm          | 50  | Pecorini                     |
+| Gramm          | 50  | Parmesan                     |
+| Stück, größe L | 3   | Eier                         |
+| Zehen, große   | 2   | Knoblauch                    |
+| Gramm          | 50  | Butter                       |
 
 ## Zubereitung
 

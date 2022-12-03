@@ -8,25 +8,24 @@
 
 ## Zutaten
 
-| 1/1    | Zutat                                            |
-|-------:|--------------------------------------------------|
-| ½kg    | Schweinefilets                                   |
-| ½EL    | Öl                                               |
-| ½EL    | Butter                                           |
-|        | Salz und Pfeffer                                 |
-| 1      | mittelgroße Zwiebel, fein gewürfelt              |
-| ½      | Knoblauchzehe, fein gewürfelt                    |
-| 50g    | Katenschinken, in sehr kleine Würfel geschnitten |
-| 250g   | Champignons                                      |
-| 100ml  | Fleischbrühe oder Gemüsebrühe                    |
-| 100ml  | Sahne                                            |
-| 100g   | Crème fraîche oder Schmand                       |
-| ½EL    | Tomatenmark, 3-fach konzentriert                 |
-| ½TL    | Senf                                             |
-|        | Speisestärke, optional                           |
-| ½ Bund | gehackte Petersilie                              |
-|        | oder                                             |
-| 3EL    | TK-Petersilie                                    |
+| Einheit    | 6p*  | 3p  | Zutat                                            |
+|------------|------|----:|--------------------------------------------------|
+| Gramm      | 1000 | 500 | Schweinefilets                                   |
+| Esslöffel  | 1    | 0,5 | Öl                                               |
+| Esslöffel  | 1    | 0,5 | Butter                                           |
+| Stück      | 2    | 1   | mittelgroße Zwiebel, fein gewürfelt              |
+| Zehe       | 1    | 0,5 | Knoblauchzehe, fein gewürfelt                    |
+| Gramm      | 100  | 50  | Katenschinken, in sehr kleine Würfel geschnitten |
+| Gramm      | 500  | 250 | Champignons                                      |
+| Milliliter | 200  | 100 | Fleischbrühe oder Gemüsebrühe                    |
+| Milliliter | 200  | 100 | Sahne                                            |
+| Gramm      | 200  | 100 | Crème fraîche oder Schmand                       |
+| Esslöffel  | 1    | 0,5 | Tomatenmark, 3-fach konzentriert                 |
+| Teelöffel  | 1    | 0,5 | Senf                                             |
+| Bund       | 1    | 0,5 | gehackte Petersilie                              |
+|            |      |     | oder                                             |
+| Esslöffel  | 3    | 1,5 | TK-Petersilie                                    |
+|            |      |     | Speisestärke, optional                           |
 
 ## Anleitung
 

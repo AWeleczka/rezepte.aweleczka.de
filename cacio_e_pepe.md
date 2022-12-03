@@ -2,13 +2,11 @@
 
 ## Zutaten
 
-| 1/1  | Zutat                              |
-|-----:|------------------------------------|
-| 400g | Tonnarelli (ersatzweise Spaghetti) |
-| 180g | Parmesan                           |
-| 70g  | Pecorino                           |
-|      | schwarzer Pfeffer                  |
-|      | Salz                               |
+| Einheit | 1   | Zutat                              |
+|---------|----:|------------------------------------|
+| Gramm   | 400 | Tonnarelli (ersatzweise Spaghetti) |
+| Gramm   | 180 | Parmesan                           |
+| Gramm   | 70  | Pecorino                           |
 
 ## Anleitung
 

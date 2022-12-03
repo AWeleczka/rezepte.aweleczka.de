@@ -2,30 +2,26 @@
 
 Zubereitungszeit: ca. 45 Min.
 
-## Zutaten für 4 Personen
+## Jägerhähnchen
 
-### Jägerhähnchen
+| Einheit    | 4p* | Zutat                                 |
+|------------|----:|---------------------------------------|
+| Gramm      | 500 | Hähnchenbrustfilet                    |
+| Gramm      | 250 | Champignons                           |
+| Stück      | 1   | Zwiebel                               |
+| Esslöffel  | 6   | Öl                                    |
+| Esslöffel  | 1   | Mehl                                  |
+| Milliliter | 300 | Geflügelbrühe                         |
+| Milliliter | 100 | trockener Weißwein oder Geflügelbrühe |
+| Esslöffel  | 3   | Schmand                               |
+| Bund       | 0,5 | Petersilie (optional)                 |
 
-| 1/1    | Zutat                                 |
-|-------:|---------------------------------------|
-| 500g   | Hähnchenbrustfilet                    |
-| 250g   | Champignons                           |
-| 1      | Zwiebel                               |
-| 6 EL   | Öl                                    |
-|        | Salz                                  |
-|        | Pfeffer                               |
-| 1 EL   | Mehl                                  |
-| 300ml  | Geflügelbrühe                         |
-| 100ml  | trockener Weißwein oder Geflügelbrühe |
-| 3 EL   | Schmand                               |
-| ½ Bund | Petersilie (optional)                 |
+## Beilage (Kartoffelbrei)
 
-### Beilage (Kartoffelbrei)
-
-| 1/1      | Zutat                             |
-|---------:|-----------------------------------|
-| 2 Beutel | Kartoffelpüree à 3 Portionen plus |
-| 250ml    | Milch                             |
+| Einheit    | 4p* | Zutat                             |
+|------------|----:|-----------------------------------|
+| Beutel     | 2   | Kartoffelpüree à 3 Portionen plus |
+| Milliliter | 250 | Milch                             |
 
 ## Anleitung
 
