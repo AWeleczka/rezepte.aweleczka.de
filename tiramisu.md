@@ -8,16 +8,16 @@
 
 ## Zutaten
 
-| Einheit          | 6p* | Zutat                    |
-|------------------|----:|--------------------------|
-| Stück            | 3   | Eier                     |
-| Gramm            | 50  | Zucker                   |
-| Gramm            | 250 | Mascarpone               |
-| Prise            | 1   | Zitronenabrieb           |
-| Gramm            | 200 | Löffelbiskuits           |
-| Espressotasse(n) | 4   | Espresso                 |
-| Milliliter       | 50  | Marsala oder Kaffeelikör |
-|                  |     | Kakaopulver              |
+| Einheit          | 6p* | 3p  | Zutat                    |
+|------------------|----:|-----|--------------------------|
+| Stück            | 3   | 2   | Eier                     |
+| Gramm            | 50  | 33  | Zucker                   |
+| Gramm            | 250 | 170 | Mascarpone               |
+| Prise            | 1   | 1   | Zitronenabrieb           |
+| Gramm            | 200 | 100 | Löffelbiskuits           |
+| Espressotasse(n) | 4   | 2   | Espresso                 |
+| Milliliter       | 50  | 25  | Marsala oder Kaffeelikör |
+| nach Bedarf      |     |     | Kakaopulver              |
 
 ## Anleitung
 
