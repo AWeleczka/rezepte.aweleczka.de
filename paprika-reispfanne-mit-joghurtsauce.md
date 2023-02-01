@@ -3,12 +3,14 @@
 ## Zutaten 
 
 ### Für den Reis
+
 | Einheit | 4p* | 2p  | Zutat       |
 | ------- | ---:| ---:| ----------- |
 | Tasse   | 2   | 1   | Reis        |
 | Tasse   | 4   | 2   | Gemüsebrühe |
 
 ### Für das Gemüse
+
 | Einheit | 4p*  | 2p   | Zutat                                         |
 | ------- | ----:| ----:| --------------------------------------------- |
 | Stück   | 2    | 1    | Zwiebel                                       |
@@ -21,6 +23,7 @@
 |         | n.B. | n.B. | Kräuter, gemischte (Basilikum und Petersilie) |
 
 ### Für die Sauce
+
 | Einheit | 4p*  | 2p   | Zutat            |
 | ------- | ----:| ----:| ---------------- |
 | Gramm   | 300  | 150  |	Joghurt          |
@@ -45,10 +48,12 @@ Von der Menge werden ca. 3 - 4 Personen satt. Der Reis kann auch als Beilage geg
 Die Kräutermenge kann nach Belieben erhöht werden.
 
 ## Nährwerte pro Portion
+
 | kCal | Eiweiß  | Fett   | Kohlenhydr. | 
 | ---- | ------- | ------ | ----------- |
 | 375  | 10,98 g | 5,76 g | 68,26 g     |
 
 
 ## Quelle
+
 https://www.chefkoch.de/rezepte/1810471293281955/Paprika-Reispfanne-mit-Joghurtsauce.html
