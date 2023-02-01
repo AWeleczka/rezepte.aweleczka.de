@@ -18,14 +18,14 @@
 | Stück   | 3     | 1,5   | Paprikaschote                                 |
 | TL      | 1     | 0,5   | Paprikapulver, edelsüßes                      |
 | TL      | 1     | 0,5   | Paprikapulver, rosenscharfes                  |
-| -       | n.B.  | n.B.  | Kräuter, gemischte (Basilikum und Petersilie) |
+|         | n.B.  | n.B.  | Kräuter, gemischte (Basilikum und Petersilie) |
 
 ### Für die Sauce
 | Einheit | 4p*   | 2p    | Zutat             |
 | ------- | ----- | ----- | ----------------- |
 | Gramm   | 300   | 150   |	Joghurt           |
 | Zehe    | 2     | 1     | Knoblauch         |
-| -       | n.B.  | n.B.  | Salz und Pfeffer  |
+|         | n.B.  | n.B.  | Salz und Pfeffer  |
 
 ## Zubereitung
 
