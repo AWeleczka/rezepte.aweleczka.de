@@ -11,7 +11,7 @@
 | Handvoll | 1                     | frischer Babyspinat           |
 | Handvoll | 1                     | geriebener Cheddar            |
 | Etwas    |                       | frische, gehackter Petersilie |
-| Gramm    | 400                   | Fussili Nudeln                |
+| Gramm    | 400                   | Farfalle Nudeln               |
 
 ## Zubereitung
 
