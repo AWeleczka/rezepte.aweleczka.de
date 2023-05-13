@@ -43,4 +43,4 @@
 
 ## Quelle
 
-Edeka Originale Farfalle N.67 - Packungsrückseite
+Edeka Originale Farfalle - Packungsrückseite
