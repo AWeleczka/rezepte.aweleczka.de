@@ -4,7 +4,7 @@
 
 ### Für das Hähnchen
 
-+ 4 (8 ounce) boneless, skinless chicken breasts
++ 4 (230 gramm / 8 ounce) boneless, skinless chicken breasts
 + ¼ cup red wine vinegar
 + 2 teaspoons kosher salt
 + 1 teaspoon freshly ground black pepper
@@ -21,7 +21,7 @@
 ### Für den Dip
 
 + 1 cup full-fat Greek yogurt
-+ 8 ounces feta cheese
++ (230 gramm / 8 ounces) feta cheese
 + 1 teaspoon finely crushed garlic, or to taste
 + 1 tablespoon chopped fresh mint
 + 1 teaspoon lemon zest
